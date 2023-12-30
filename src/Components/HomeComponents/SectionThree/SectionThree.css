@@ -1,0 +1,12 @@
+.secThreeContainer button{
+    width: 170px;
+    background-color: #82cbed;
+    border: none;
+    color: #000000;
+    padding:  15px;
+    border-radius: 20px;
+    transition: all 0.3s ease-in-out; 
+}
+.secThreeContainer button:hover{
+    background-color: #82cbed;
+}

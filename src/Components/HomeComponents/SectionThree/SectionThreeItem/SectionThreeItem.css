@@ -1,0 +1,14 @@
+.secThreeItem{
+    display: flex;
+    align-items: start;
+    justify-content: start;
+    padding: 10px ;
+}
+.secThreeItem:hover{
+    opacity: 0.4;
+    cursor: pointer;
+}
+.secThreeItem img{
+    width: 20px;
+    height: 20px;
+}

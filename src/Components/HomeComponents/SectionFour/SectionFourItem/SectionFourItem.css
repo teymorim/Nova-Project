@@ -1,0 +1,17 @@
+.secFourItem .card{
+    border: none;
+    overflow: hidden;
+    cursor: pointer;
+ 
+}
+.secFourItem .card:hover  .card-img-top{
+    transform: scale(1.1) !important;
+    transition: all 0.5s ease-in-out;
+}
+.secFourItem .card a{
+    text-decoration: none;
+    color: #82cbed;
+}
+.secFourItem .card a:hover{
+    color: #01adfc;
+}

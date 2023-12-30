@@ -1,0 +1,16 @@
+.BlogItem .card{
+    border: none;
+    overflow: hidden;
+    cursor: pointer;
+}
+.BlogItem .card:hover  .card-img-top{
+    transform: scale(1.1) !important;
+    transition: all 0.5s ease-in-out;
+}
+.BlogItem .card a{
+    text-decoration: none;
+    color: #82cbed;
+}
+.BlogItem .card a:hover{
+    color: #01adfc;
+}

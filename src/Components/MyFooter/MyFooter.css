@@ -1,0 +1,8 @@
+.MyFooterContainer span{
+    padding: 5px ;
+    opacity: 0.8;
+}
+.MyFooterContainer span:hover{
+    cursor: pointer;
+    color: #82cbed;
+}

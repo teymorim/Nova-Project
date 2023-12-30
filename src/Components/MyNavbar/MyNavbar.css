@@ -1,0 +1,30 @@
+.navbar{
+    position: fixed;
+    width: 100%;
+    z-index: 1000;
+}
+.navbar .navbar-toggler{
+    background-color: #fff ;
+}
+.navbar .nav-link{
+    transition: all 0.3s ease-in-out;
+    color: #fff !important;
+}
+.navbar .nav-link:hover{
+    opacity: 100% !important;
+    cursor: pointer;
+}
+.navbar a.active{
+    opacity: 100% !important;
+}
+
+@media screen and (max-width: 992px) {
+    .navbar .nav-link{
+        color: rgb(27,47,69 ) !important;  
+    }
+    .navbar .nav-link:hover{
+        color: rgb(27,47,69  ) !important;
+        opacity: 100% !important;
+
+    }
+}

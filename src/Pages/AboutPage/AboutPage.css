@@ -1,0 +1,12 @@
+.about-hero{
+    height: 450px;
+    background-image: url('../../Assests/Images/about-header.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-blend-mode: multiply;
+    background-color: rgb(27,47,69, 0.7) ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

@@ -1,0 +1,19 @@
+.sectionTwoDesc{
+    background-image: url(../../../Assests//Images/sectionTwo-bg.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-blend-mode: multiply;
+    background-color: rgba(0, 0, 0, 0.5);  
+}
+.sectionTwoDesc button {
+    width: 150px;
+    background-color: #82cbed;
+    color: #000;
+    padding:  15px;
+    border-radius: 20px;
+    transition: all 0.3s ease-in-out;
+}
+.sectionTwoDesc button:hover{
+    background-color: #82cbed;
+}
